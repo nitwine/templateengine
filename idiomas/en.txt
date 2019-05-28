@@ -1,0 +1,36 @@
+[:lang:]
+en
+[/:]
+[:idi:]
+Language
+[/:]
+[:h1:]
+Hello, world!
+[/:]
+[:boton-1:]
+see more
+[/:]
+[:boton-2:]
+More info
+[/:]
+[:h2-1:]
+The Bad Uses of Neuroscience
+[/:]
+[:p1:]
+In recent years we have witnessed a technological revolution that transformed our way of life radically and forever. Technological developments facilitated much of the tasks we do all the time, They immensely expanded the possibilities of communication between people around the world and also allowed us to make amazing discoveries about the universe and about ourselves.
+[/:]
+[:h2-2:]
+Robotization
+[/:]
+[:p2:]
+As Andrés Oppenheimer argues in his book Save Who Can, The Future of Work in the Age of Automation, 47% of jobs are at risk of being replaced by robots and computers with superior intelligence in the next 15 or 20 years.
+[/:]
+[:h2-3:]
+The body of a planet like Earth found
+[/:]
+[:p3:]
+Solar system, within 5.000 million years. The Sun has died. Before dying, it swallowed Mercury, Venus and the Earth. Mars is the last rocky planet that still exists. It is an enigma if some of the devastated planets survived and continue to orbit the corpse of their star.
+[/:]
+[:h1-2:]
+This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.
+[/:]

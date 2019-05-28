@@ -1,0 +1,37 @@
+
+[:lang:]
+es
+[/:]
+[:idi:]
+Idioma
+[/:]
+[:h1:]
+Hola, mundo!
+[/:]
+[:boton-1:]
+Ver mas
+[/:]
+[:boton-2:]
+Mas informacion
+[/:]
+[:h2-1:]
+Los malos usos de la neurociencia
+[/:]
+[:p1:]
+En los últimos años asistimos a una revolución tecnológica que transformó nuestro modo de vida radicalmente y para siempre. Los desarrollos tecnológicos facilitaron gran parte de las tareas que hacemos todo el tiempo, ampliaron inmensamente las posibilidades de comunicación entre las personas alrededor del mundo y también nos permitieron realizar asombrosos descubrimientos sobre el universo y sobre nosotros mismos
+[/:]
+[:h2-2:]
+La Robotización
+[/:]
+[:p2:]
+Como bien sostiene Andrés Oppenheimer en su libro Sálvese quién pueda, El Futuro del Trabajo en la era de la Automatización, el 47% de los empleos corren el riesgo de ser reemplazados por robots y computadoras con inteligencia superior en los próximos 15 o 20 años.
+[/:]
+[:h2-3:]
+Hallado el cadáver de un planeta como la Tierra
+[/:]
+[:p3:]
+Sistema solar, dentro de 5.000 millones de años. El Sol ha muerto. Antes de agonizar, se tragó a Mercurio, Venus y la Tierra. Marte es el último planeta rocoso que sigue existiendo. Es un enigma si parte de los planetas arrasados sobrevivió y siguen orbitando el cadáver de su estrella.
+[/:]
+[:h1-2:]
+Esta es una plantilla para un sitio web de marketing o informativo simple. Incluye una gran llamada llamada jumbotron y tres piezas de contenido de apoyo. Úsalo como punto de partida para crear algo más único.
+[/:]
